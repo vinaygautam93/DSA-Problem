@@ -6,6 +6,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
@@ -33,4 +34,8 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->

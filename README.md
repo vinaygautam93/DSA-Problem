@@ -6,6 +6,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Array
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
 |  |
@@ -18,5 +19,18 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Hash Table
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## String
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

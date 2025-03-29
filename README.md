@@ -32,11 +32,13 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -92,4 +94,12 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

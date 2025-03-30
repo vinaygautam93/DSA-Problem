@@ -22,8 +22,9 @@ class Solution {
             
         }
         //list.sort();
-        list.sort((a, b) -> b.getKey() - a.getKey()); 
-        StringBuilder ans = new StringBuilder();
+        list.sort((a, b) -> b.getKey() - a.getKey());  // dec
+        //list.sort((a, b) -> a.getKey() - b.getKey()); // asc
+        StringBuilder ans = new StringBuilder("");
         for( AbstractMap.Entry<Integer, Character> it : list  ) {
 
               int count = it.getKey();

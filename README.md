@@ -39,6 +39,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
@@ -50,6 +51,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 ## Topological Sort
@@ -100,6 +102,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -135,4 +138,8 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->

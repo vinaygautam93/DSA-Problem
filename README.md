@@ -22,6 +22,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/vinaygautam93/DSA-Problem/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vinaygautam93/DSA-Problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
@@ -53,6 +54,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vinaygautam93/DSA-Problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |

@@ -109,6 +109,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2630-alternating-digit-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/2630-alternating-digit-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |

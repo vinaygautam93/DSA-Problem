@@ -1,4 +1,4 @@
-// #import< bits/stdc++.h>
+#import<bits/stdc++.h>
 class Solution {
 public:
     int alternateDigitSum(int n) {

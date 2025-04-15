@@ -15,6 +15,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -182,4 +183,28 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2050-count-good-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/vinaygautam93/DSA-Problem/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |

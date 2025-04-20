@@ -10,6 +10,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
+| [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -52,6 +53,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -116,6 +118,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2630-alternating-digit-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/2630-alternating-digit-sum) |
@@ -133,6 +136,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack

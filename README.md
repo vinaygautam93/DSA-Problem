@@ -19,6 +19,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -161,6 +162,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
@@ -239,4 +242,8 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/vinaygautam93/DSA-Problem/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2915-count-of-interesting-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

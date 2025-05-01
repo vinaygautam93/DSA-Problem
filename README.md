@@ -15,6 +15,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/vinaygautam93/DSA-Problem/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
@@ -121,6 +122,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -152,6 +154,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -167,6 +170,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
@@ -214,6 +218,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Binary Search
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -254,5 +259,6 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

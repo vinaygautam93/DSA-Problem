@@ -84,6 +84,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0868-push-dominoes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vinaygautam93/DSA-Problem/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -99,6 +100,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vinaygautam93/DSA-Problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -199,6 +201,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |

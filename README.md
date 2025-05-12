@@ -20,6 +20,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/vinaygautam93/DSA-Problem/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
@@ -75,6 +76,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/vinaygautam93/DSA-Problem/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
@@ -139,6 +141,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -229,6 +232,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/vinaygautam93/DSA-Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |

@@ -97,6 +97,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vinaygautam93/DSA-Problem/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/vinaygautam93/DSA-Problem/tree/master/0044-wildcard-matching) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
@@ -120,6 +121,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/vinaygautam93/DSA-Problem/tree/master/0044-wildcard-matching) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -194,6 +196,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vinaygautam93/DSA-Problem/tree/master/0044-wildcard-matching) |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vinaygautam93/DSA-Problem/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -268,6 +271,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vinaygautam93/DSA-Problem/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |

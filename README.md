@@ -6,6 +6,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -147,6 +148,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
@@ -241,6 +243,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |

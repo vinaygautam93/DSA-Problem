@@ -95,6 +95,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vinaygautam93/DSA-Problem/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
@@ -118,6 +119,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -324,4 +326,8 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0147-insertion-sort-list](https://github.com/vinaygautam93/DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vinaygautam93/DSA-Problem/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

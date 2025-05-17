@@ -6,6 +6,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
@@ -70,6 +71,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
@@ -186,6 +188,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |

@@ -20,6 +20,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1293-three-consecutive-odds](https://github.com/vinaygautam93/DSA-Problem/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vinaygautam93/DSA-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinaygautam93/DSA-Problem/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
@@ -206,6 +207,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |

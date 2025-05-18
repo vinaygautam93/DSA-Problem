@@ -88,6 +88,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1500-count-largest-group](https://github.com/vinaygautam93/DSA-Problem/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
@@ -117,6 +118,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinaygautam93/DSA-Problem/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vinaygautam93/DSA-Problem/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -244,6 +246,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |

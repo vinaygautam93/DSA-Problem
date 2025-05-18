@@ -151,6 +151,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vinaygautam93/DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinaygautam93/DSA-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -356,4 +357,12 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vinaygautam93/DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vinaygautam93/DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

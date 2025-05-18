@@ -33,6 +33,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2626-count-the-number-of-good-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/vinaygautam93/DSA-Problem/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/vinaygautam93/DSA-Problem/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2915-count-of-interesting-subarrays) |
@@ -88,6 +89,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/vinaygautam93/DSA-Problem/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2915-count-of-interesting-subarrays) |
@@ -334,6 +336,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/vinaygautam93/DSA-Problem/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |

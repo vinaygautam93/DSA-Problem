@@ -9,6 +9,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
@@ -74,6 +75,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
@@ -315,6 +317,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |

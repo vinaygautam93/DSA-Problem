@@ -48,6 +48,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/vinaygautam93/DSA-Problem/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -186,6 +187,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2699-count-the-number-of-fair-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/vinaygautam93/DSA-Problem/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -201,6 +203,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2415-count-the-number-of-ideal-arrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2630-alternating-digit-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/2630-alternating-digit-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/vinaygautam93/DSA-Problem/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |

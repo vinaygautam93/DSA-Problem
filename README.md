@@ -7,6 +7,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/vinaygautam93/DSA-Problem/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
@@ -213,6 +215,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |

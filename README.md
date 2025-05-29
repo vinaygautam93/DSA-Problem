@@ -166,10 +166,12 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vinaygautam93/DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinaygautam93/DSA-Problem/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/vinaygautam93/DSA-Problem/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -388,6 +390,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vinaygautam93/DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |

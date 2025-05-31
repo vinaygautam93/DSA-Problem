@@ -16,6 +16,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0496-next-greater-element-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/vinaygautam93/DSA-Problem/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vinaygautam93/DSA-Problem/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vinaygautam93/DSA-Problem/tree/master/1293-three-consecutive-odds) |
@@ -170,6 +171,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/vinaygautam93/DSA-Problem/tree/master/0945-snakes-and-ladders) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinaygautam93/DSA-Problem/tree/master/2793-count-the-number-of-complete-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Shortest Path
@@ -223,6 +225,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/vinaygautam93/DSA-Problem/tree/master/0945-snakes-and-ladders) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |

@@ -1,0 +1,39 @@
+class Solution {
+public:
+    int kt=0;
+    char l(vector<int>& freq) {
+        for (int i = 0; i < 26; i++) {
+            if (freq[i]) return 'a' + i;
+        }
+        return 'a';
+    }
+
+    string robotWithString(string s) {
+        stack<char> st;
+        string t = "";
+        vector<int> freq(26);
+
+        // Count frequency of each character in s
+        for (char ch : s) {
+            freq[ch - 'a']++;
+        }
+      
+        for (char ch : s) {
+            st.push(ch);
+            freq[ch - 'a']--;
+            kt++;
+            while (!st.empty() && st.top() <= l(freq)) {
+                t += st.top();
+                st.pop();
+            }
+        }
+
+        int tt;
+        while (!st.empty()) {
+            t += st.top();
+            st.pop();
+        }
+
+        return t;
+    }
+};

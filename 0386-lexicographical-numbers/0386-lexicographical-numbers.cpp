@@ -1,0 +1,25 @@
+class Solution {
+public:
+int ty=0;
+     vector<int> ans;
+    int n;
+    void f(int i)  
+    {
+        if (i>n) return;
+        if (i>0) ans.push_back(i);
+        for(int j=(i==0)?1:0; j<=9; j++){
+            int x=10*i+j;
+            if (x>n) break;
+            f(x);
+            ty++;
+        }
+    }
+    vector<int> lexicalOrder(int n) {
+        this->n=n;
+        int tv=0;
+
+        ans.reserve(n);
+        f(0);
+        return ans;
+    }
+};

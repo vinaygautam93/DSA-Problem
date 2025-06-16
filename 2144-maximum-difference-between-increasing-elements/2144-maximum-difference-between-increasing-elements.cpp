@@ -8,18 +8,26 @@ public:
         int n = nums.size();
 
         // Step 1: Create prefix minimum array
-        vector<int> preMin(n);
-        preMin[0] = nums[0];
+        vector<int> preMin;
+        int mn = nums[0];
+        preMin.push_back(mn);
+
         for (int i = 1; i < n; i++) {
-            preMin[i] = min(nums[i], preMin[i - 1]);
+            mn = min(nums[i], mn);
+            preMin.push_back(mn);
         }
 
         // Step 2: Create postfix maximum array
-        vector<int> postMax(n);
-        postMax[n - 1] = nums[n - 1];
+        vector<int> postMax;
+        int mx = nums[n - 1];
+        postMax.push_back(mx);
+
         for (int i = n - 2; i >= 0; i--) {
-            postMax[i] = max(nums[i], postMax[i + 1]);
+            mx = max(nums[i], mx);
+            postMax.push_back(mx);
         }
+
+        reverse(postMax.begin(), postMax.end());
 
         // Step 3: Calculate maximum difference
         int diff = 0;

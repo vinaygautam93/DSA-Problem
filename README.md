@@ -119,6 +119,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vinaygautam93/DSA-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2915-count-of-interesting-subarrays) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinaygautam93/DSA-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vinaygautam93/DSA-Problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/vinaygautam93/DSA-Problem/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -149,6 +150,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinaygautam93/DSA-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vinaygautam93/DSA-Problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -220,6 +222,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vinaygautam93/DSA-Problem/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinaygautam93/DSA-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/vinaygautam93/DSA-Problem/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3647-zero-array-transformation-iii) |
 ## Math
@@ -281,6 +284,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3001-apply-operations-to-maximize-score](https://github.com/vinaygautam93/DSA-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vinaygautam93/DSA-Problem/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinaygautam93/DSA-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vinaygautam93/DSA-Problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
@@ -310,6 +314,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinaygautam93/DSA-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

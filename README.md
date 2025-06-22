@@ -146,6 +146,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -429,6 +430,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vinaygautam93/DSA-Problem/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Linked List
 |  |

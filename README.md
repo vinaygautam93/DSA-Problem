@@ -146,6 +146,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vinaygautam93/DSA-Problem/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vinaygautam93/DSA-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -279,6 +280,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vinaygautam93/DSA-Problem/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vinaygautam93/DSA-Problem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -317,6 +319,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/vinaygautam93/DSA-Problem/tree/master/2486-most-frequent-even-element) |
@@ -360,6 +363,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/vinaygautam93/DSA-Problem/tree/master/3548-find-the-count-of-good-integers) |
@@ -448,6 +452,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinaygautam93/DSA-Problem/tree/master/0022-generate-parentheses) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Tree
 |  |
 | ------- |

@@ -15,6 +15,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/vinaygautam93/DSA-Problem/tree/master/0945-snakes-and-ladders) |
@@ -103,6 +104,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/vinaygautam93/DSA-Problem/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vinaygautam93/DSA-Problem/tree/master/0797-rabbits-in-forest) |
@@ -219,6 +221,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0148-sort-list](https://github.com/vinaygautam93/DSA-Problem/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/vinaygautam93/DSA-Problem/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vinaygautam93/DSA-Problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -322,6 +325,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -426,6 +430,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinaygautam93/DSA-Problem/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2394-count-subarrays-with-score-less-than-k) |

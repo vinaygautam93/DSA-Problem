@@ -165,6 +165,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3637-count-number-of-balanced-permutations](https://github.com/vinaygautam93/DSA-Problem/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/3811-reverse-degree-of-a-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -451,6 +452,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vinaygautam93/DSA-Problem/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/vinaygautam93/DSA-Problem/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |

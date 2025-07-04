@@ -79,6 +79,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinaygautam93/DSA-Problem/tree/master/2427-first-letter-to-appear-twice) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -262,6 +263,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3201-distribute-candies-among-children-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/vinaygautam93/DSA-Problem/tree/master/3548-find-the-count-of-good-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vinaygautam93/DSA-Problem/tree/master/3637-count-number-of-balanced-permutations) |
@@ -396,6 +398,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | ------- |
 | [0044-wildcard-matching](https://github.com/vinaygautam93/DSA-Problem/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |

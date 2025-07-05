@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-         
+        
         int n = arr.size();
         map< int , int > mp;
 

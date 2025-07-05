@@ -24,6 +24,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1293-three-consecutive-odds](https://github.com/vinaygautam93/DSA-Problem/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vinaygautam93/DSA-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vinaygautam93/DSA-Problem/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vinaygautam93/DSA-Problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/vinaygautam93/DSA-Problem/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -112,6 +113,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vinaygautam93/DSA-Problem/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/vinaygautam93/DSA-Problem/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -333,6 +335,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/0692-top-k-frequent-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinaygautam93/DSA-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vinaygautam93/DSA-Problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vinaygautam93/DSA-Problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

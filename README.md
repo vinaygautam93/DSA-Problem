@@ -30,6 +30,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinaygautam93/DSA-Problem/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinaygautam93/DSA-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -116,6 +117,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vinaygautam93/DSA-Problem/tree/master/2215-finding-3-digit-even-numbers) |
@@ -491,4 +493,8 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->

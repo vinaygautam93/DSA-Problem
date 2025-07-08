@@ -31,6 +31,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinaygautam93/DSA-Problem/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinaygautam93/DSA-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -191,6 +192,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0416-partition-equal-subset-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/vinaygautam93/DSA-Problem/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vinaygautam93/DSA-Problem/tree/master/0868-push-dominoes) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/vinaygautam93/DSA-Problem/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vinaygautam93/DSA-Problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/vinaygautam93/DSA-Problem/tree/master/2262-solving-questions-with-brainpower) |
@@ -236,6 +238,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vinaygautam93/DSA-Problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinaygautam93/DSA-Problem/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinaygautam93/DSA-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -412,6 +415,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vinaygautam93/DSA-Problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vinaygautam93/DSA-Problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/2280-count-good-triplets-in-an-array) |

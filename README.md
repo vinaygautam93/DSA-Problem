@@ -72,6 +72,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [3321-type-of-triangle](https://github.com/vinaygautam93/DSA-Problem/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vinaygautam93/DSA-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/vinaygautam93/DSA-Problem/tree/master/3430-count-days-without-meetings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -208,6 +209,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [2415-count-the-number-of-ideal-arrays](https://github.com/vinaygautam93/DSA-Problem/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vinaygautam93/DSA-Problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |

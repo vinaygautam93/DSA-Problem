@@ -32,6 +32,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vinaygautam93/DSA-Problem/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinaygautam93/DSA-Problem/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1813-maximum-erasure-value](https://github.com/vinaygautam93/DSA-Problem/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/vinaygautam93/DSA-Problem/tree/master/2048-build-array-from-permutation) |
@@ -124,6 +125,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [1500-count-largest-group](https://github.com/vinaygautam93/DSA-Problem/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinaygautam93/DSA-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinaygautam93/DSA-Problem/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/vinaygautam93/DSA-Problem/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinaygautam93/DSA-Problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vinaygautam93/DSA-Problem/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -473,6 +475,7 @@ DSA-Problem 🚀  This repo contains my solutions to DSA problems from LeetCode,
 | [0219-contains-duplicate-ii](https://github.com/vinaygautam93/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinaygautam93/DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinaygautam93/DSA-Problem/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1813-maximum-erasure-value](https://github.com/vinaygautam93/DSA-Problem/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/vinaygautam93/DSA-Problem/tree/master/1873-longest-nice-substring) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vinaygautam93/DSA-Problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vinaygautam93/DSA-Problem/tree/master/2527-count-subarrays-with-fixed-bounds) |
